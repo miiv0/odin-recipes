@@ -16,24 +16,27 @@
     font-family: Papyrus, Copperplate, fantasy;
     color: #ef436b;
     font-weight: bold;
-    font-size: large;
+    font-size: x-large;
 }
 
 .a3 {
     font-family: Copperplate, Papyrus, fantasy;
     font-size: medium;
     color: black;
+    
 }
 
 .a3 #b1 {
     background-color: #ffce5c;
+    font-size: 18px;
 }
 
 .a3 #b2 {
     background-color: #05c793;
+    font-size: 18px;
 }
 
 .a3 #b3 {
     background-color: #fff5eb;
-
+    font-size: 18px;
 }
