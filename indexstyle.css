@@ -1,0 +1,35 @@
+* {
+    text-align: center;
+}
+
+.a1 {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: #26547d;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.a2 {
+    font-family: Papyrus, Copperplate, fantasy;
+    color: #ef436b;
+    font-weight: bold;
+    font-size: large;
+}
+
+.a3 {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: medium;
+    color: black;
+}
+
+.a3 #b1 {
+    background-color: #ffce5c;
+}
+
+.a3 #b2 {
+    background-color: #05c793;
+}
+
+.a3 #b3 {
+    background-color: #fff5eb;
+}
